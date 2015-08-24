@@ -1,0 +1,6 @@
+module.exports = {
+  APP_NAME: 'Webpack Starter Kit',
+
+  DEV_HOST: 'localhost',
+  DEV_PORT: 3000
+};
